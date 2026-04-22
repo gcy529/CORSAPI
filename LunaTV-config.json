@@ -410,5 +410,11 @@
       "api": "https://siwazyw.tv/api.php/provide/vod",
       "detail": "https://siwazyw.tv"
     }
-  }
+  },
+  "lives": [
+    {
+      "name": "自有直播源",
+      "url": "https://tv.gcy6.dpdns.org/"
+    }
+  ]
 }
